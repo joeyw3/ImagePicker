@@ -77,6 +77,10 @@
     GMAlbumsViewController *albumsViewController = [[GMAlbumsViewController alloc] init:_allow_video];
     _navigationController = [[UINavigationController alloc] initWithRootViewController:albumsViewController];
     _navigationController.delegate = self;
+
+    if (@available(iOS 13.0, *)) {
+        self.modalPresentationStyle = YES;
+    }
     
     [_navigationController willMoveToParentViewController:self];
     [_navigationController.view setFrame:self.view.frame];
