@@ -8,6 +8,6 @@
     <string name="multi_image_picker_processing_images_message">Dit kan even duren</string>
     <string name="discard" translatable="false">Annuleren</string>
     <string name="done" translatable="false">OK</string>
-    <string name="max_count_photos_title">Maximaal %d foto's</string>
-    <string name="max_count_photos_message">Je kunt slechts %d foto's tegelijk selecteren.</string>
+    <string name="max_count_photos_title">Maximaal %d afbeeldingen</string>
+    <string name="max_count_photos_message">Je kunt slechts %d afbeeldingen tegelijk selecteren.</string>
  </resources>
