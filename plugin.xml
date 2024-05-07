@@ -137,7 +137,7 @@
             </style>
         </config-file>
         <resource-file src="src/android/Library/res/values/multiimagechooser_strings_en.xml" target="res/values/multiimagechooser_strings_en.xml"/>
-        <resource-file src="src/android/Library/res/values-nl/multiimagechooser_strings_nl.xml" target="res/values-pt/multiimagechooser_strings_nl.xml"/>
+        <resource-file src="src/android/Library/res/values-nl/multiimagechooser_strings_nl.xml" target="res/values-nl/multiimagechooser_strings_nl.xml"/>
         <resource-file src="src/android/Library/res/values-pl/multiimagechooser_strings_pl.xml" target="res/values-pt/multiimagechooser_strings_pl.xml"/>
 
         <framework src="src/android/ignorelinterrors.gradle" custom="true" type="gradleReference"/>
